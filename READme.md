@@ -2,13 +2,7 @@
 
  Welcome to the Simon Says Game repository! This project is a fun and engaging recreation of the classic memory game "Simon Says," where players must replicate a sequence of lights and sounds. This digital version is designed to be played on any device with a web browser, offering an accessible and user-friendly interface for all ages.
 
- Table of Contents
- Features
- Getting Started
- Prerequisites
- Installation
- How to Play
- Built With
+
 
 
 # Features
