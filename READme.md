@@ -20,7 +20,7 @@ High Score Tracking: Saves your highest score so you can compete with yourself o
 
 # Clone the repository:
 
-#Copy code
+ Copy code
  git clone https://github.com/yourusername/simon-says.git
  Open the index.html file in your web browser, or set up a local server to host the files.
 
