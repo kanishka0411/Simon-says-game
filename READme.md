@@ -34,3 +34,7 @@ High Score Tracking: Saves your highest score so you can compete with yourself o
  HTML
  CSS
  JavaScript
+
+ ---Contributing Contributions are welcome! Feel free to open issues or pull requests for any improvements or additional features you'd like to see.
+
+ ---License This is open source.
