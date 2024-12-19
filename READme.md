@@ -25,7 +25,7 @@ High Score Tracking: Saves your highest score so you can compete with yourself o
  Open the index.html file in your web browser, or set up a local server to host the files.
 
 # How to Play:
- Initiate the Game: Click on the 'Start' button.
+ Initiate the Game: Press any key to start.
  Watch the Sequence: Pay attention as the game highlights the series of buttons.
  Repeat the Sequence: Click the buttons in the same order as shown.
  Progress Through Levels: Each level increases in length and speed. See how far you can go!
